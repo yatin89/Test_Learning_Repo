@@ -6,3 +6,5 @@ else
     print('you are  not  correct user')
     exit
 
+print("Day 3 LEarning")
+
