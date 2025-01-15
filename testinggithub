@@ -1,0 +1,13 @@
+counter = 100          # Creates an integer variable
+miles   = 1000.0       # Creates a floating point variable
+name    = "Zara Ali"   # Creates a string variable
+
+print (counter)
+print (miles)
+print (name)
+
+for letter in 'Python':     # First Example
+   print 'Current Letter :', letter
+   
+   
+   You know how much V love U, This Rakhi will not B the same 4 us, especially  for you, No matter how far apart our lives, i'll always find a way 2 return 2 U, U are a real treasure of our life.
